@@ -6,7 +6,7 @@
 
 ---
 
-## 🔬 Research Projects
+## Research Projects
 
 ### [Assessing Out-of-the-Box Bioinformatics Capabilities of LLMs](projects/bioinformatics-llms/)
 Evaluated the performance of GPT-3.5, GPT-4.0, and LLaMA 3-70B on over 100 bioinformatics problems. Compared results to tens of thousands of human participants using R and Python.
