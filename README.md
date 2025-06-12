@@ -13,6 +13,7 @@ Evaluated the performance of GPT-3.5, GPT-4.0, and LLaMA 3-70B on over 100 bioin
 
 - **Skills**: Python, R, statistical modeling, data visualization, large language models, benchmarking  
 - **Tools**: pandas, ggplot2, seaborn, NumPy
+- **Deliverables**: [Symposium Poster](projects/bioinformatics-llms/uropposter.pdf)
 
 ---
 
