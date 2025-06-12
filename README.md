@@ -29,7 +29,7 @@ Developed a discrete event simulation model to optimize appointment scheduling a
 
 - **Skills:** simulation modeling, discrete event simulation, statistical analysis, cost-benefit evaluation
 - **Tools:** Excel, industrial operations engineering techniques
-- **Deliverables**: [Poster](projects/michigan-medicine-appt-simulator/ENGR100 poster.pptx-3.pdf) | [Report](projects/michigan-medicine-appt-simulator/report.pdf)
+- **Deliverables**: [Poster](projects/michigan-medicine-appt-simulator/poster.pdf) | [Report](projects/michigan-medicine-appt-simulator/report.pdf)
 
 ### [German Gas Consumption Trends During the 2022 Energy Crisis](projects/german-gas/)
 Analyzed time series data to show reductions in gas consumption across sectors. Found quicker adaptation in industry and strong correlation with temperature.
