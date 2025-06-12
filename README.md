@@ -36,6 +36,7 @@ Used geospatial and socioeconomic data to explore 2020 voter trends by county. M
 
 - **Skills**: Python, geospatial data, machine learning, regression modeling  
 - **Tools**: scikit-learn, pandas, geopandas, matplotlib
+- **Website**: [Election Analysis](https://carteradamski.github.io/Election-Voting-Analysis/)
 
 ---
 
