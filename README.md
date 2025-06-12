@@ -24,6 +24,13 @@ Explored patterns in IMDb data, such as genre distributions, actor prominence, a
 - **Skills**: R, Shiny, ggplot2, dplyr, string processing, EDA  
 - **Deliverables**: [Final Project](projects/imdb-analysis/imdb.pdf) 
 
+### [Michigan Medicine Discrete Event Simulation](projects/michigan-medicine-appt-simulator)
+Developed a discrete event simulation model to optimize appointment scheduling at a Michigan Medicine primary care clinic. Our team, KVVJ Solutions, designed a strategy that ensured at least 95% of patients were scheduled within 3 weeks—balancing access goals and operational costs. We modeled weekly demand using a Gaussian distribution and ran 10 replications across multiple slot configurations.
+
+- **Skills:** simulation modeling, discrete event simulation, statistical analysis, cost-benefit evaluation
+- **Tools:** Excel, industrial operations engineering techniques
+- **Deliverables**: [Poster](projects/michigan-medicine-appt-simulator/ENGR100 poster.pptx-3.pdf) 
+
 ### [German Gas Consumption Trends During the 2022 Energy Crisis](projects/german-gas/)
 Analyzed time series data to show reductions in gas consumption across sectors. Found quicker adaptation in industry and strong correlation with temperature.
 
