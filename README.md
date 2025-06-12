@@ -2,7 +2,7 @@
 
 🎓 Data Science @ University of Michigan College of Engineering
 📍 Based in Canton, MI | 📧 varajesh@umich.edu | 📞 (313) 727-8752  
-🔗 [LinkedIn](https://www.linkedin.com/in/varsha-rajesh08) |  | [Resume](projects/Varsha-Rajesh-Resume_.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/varsha-rajesh08) |  [Resume](projects/Varsha-Rajesh-Resume_.pdf)
 
 ---
 
